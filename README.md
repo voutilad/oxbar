@@ -1,3 +1,11 @@
+# about the fork
+Are you looking for the real [oxbar](https://github.com/ryanflannery/oxbar.git)?
+
+This is a fork where I'm going to play with making a non-X11 version,
+specifically for leveraging the existing C code for collecting metrics.
+
+---
+
 # oxbar
 oxbar is a X11 status bar for OpenBSD showing various system stats.
 It has a configurable display and works out-of-the-box on most modern window
